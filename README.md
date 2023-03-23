@@ -10,14 +10,11 @@ Next go to my github and download the zip folder and by using GUI or your cursor
 
 ##Usage
 You can use this project by going to my Github account and clicking on my project repository. 
-<img src="./assets/images/screenshot-3.png" alt="Github Repository" />
-In the bottom right of the page you will see the option to look deployed pages from this repository, which will take you to the page looking like this.
-<img src="./assets/images/screenshot-4.png" alt="Marketing Page" />
-You will also see the link of the page: 
-<a href="https://ftahira1.github.io/module-1-challenge/">module-1-challenge</a>
+<img src="./assets/images/screenshot-5.png"/>
+Click here for deployed page<a href="https://ftahira1.github.io/module-1-challenge/">module-1-challenge</a>
 
 ##Credits
-Click here: <a href="https://github.com/coding-boot-camp/urban-octo-telegram.git/">urban-octo-telegram</a>
+Click here for Github page: <a href="https://github.com/coding-boot-camp/urban-octo-telegram.git/">urban-octo-telegram</a>
 
 ##License
 MIT license
