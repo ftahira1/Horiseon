@@ -14,8 +14,8 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-/* Removed class! */
-header h1 {
+/* Removed header class! */
+    h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -102,7 +102,12 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/* Added h3 heading element and removed the other classes bu turning iy into a comment! */
+h3 {
+    margin-bottom: 10px;
+    text-align: center; 
+}
+/* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -112,10 +117,11 @@ p {
     text-align: center;
 }
 
+
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-}
+} */
 
 .benefit-lead img {
     display: block;
@@ -173,8 +179,12 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+/* Added h2 heading element and removed the other classes bu turning iy into a comment! */
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -186,8 +196,8 @@ p {
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
-}
+    font-size: 36px; */
+} 
 /* Removed class in front of footer! */
 footer {
     padding: 30px;
@@ -195,7 +205,10 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* Removed class in front of footer! */
-footer h2 {
+
+
+
+/* Changed form h2 to h4! */
+footer h4 {
     font-size: 20px;
 }
