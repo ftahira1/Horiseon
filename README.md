@@ -11,7 +11,7 @@ Next go to my github and download the zip folder and by using GUI or your cursor
 ##Usage
 You can use this project by going to my Github account and clicking on my project repository. 
 <img src="./assets/images/screenshot-5.png"/>
-Click here for deployed page<a href="https://ftahira1.github.io/Horiseon/">module-1-challenge</a>
+Click here for deployed page<a href="https://ftahira1.github.io/Horiseon/">Horiseon</a>
 
 ##Credits
 Click here for Github page: <a href="https://github.com/coding-boot-camp/urban-octo-telegram.git/">urban-octo-telegram</a>
