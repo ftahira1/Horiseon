@@ -1,7 +1,7 @@
 # Module-1-challenge Marketing
 
 ##Description
-Module-1-challenge helps bootcamp student like me, to learn and practice html and css. We also learn how to use proper semantics and proper css stylesheet. Additionally, we also learn how to make sure that all the links work when we deploy the page online.
+Horiseon project helps bootcamp student like me, to learn and practice html and css. We also learn how to use proper semantics and proper css stylesheet. Additionally, we also learn how to make sure that all the links work when we deploy the page online.
 
 ##Installation
 First create a new repository in Github by going to Settings->Repositories->New->Choose a name, make it public and choose a license.
@@ -11,7 +11,7 @@ Next go to my github and download the zip folder and by using GUI or your cursor
 ##Usage
 You can use this project by going to my Github account and clicking on my project repository. 
 <img src="./assets/images/screenshot-5.png"/>
-Click here for deployed page<a href="https://ftahira1.github.io/module-1-challenge/">module-1-challenge</a>
+Click here for deployed page<a href="https://ftahira1.github.io/Horiseon/">module-1-challenge</a>
 
 ##Credits
 Click here for Github page: <a href="https://github.com/coding-boot-camp/urban-octo-telegram.git/">urban-octo-telegram</a>
